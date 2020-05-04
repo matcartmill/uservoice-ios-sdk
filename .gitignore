@@ -14,3 +14,4 @@ dist
 Carthage/
 UserVoice\ Demo.xcodeproj
 UserVoice\ SDK.xcworkspace
+UserVoice.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
